@@ -146,6 +146,19 @@ If you wish to reproduce the system in another deployment, please refer to docum
 
 
 ## Citing MEDIator
+The bibtex to cite MEDIator is the following:
+
+@misc{pradeeban_kathiravelu_2017_844842,
+  author       = {Pradeeban Kathiravelu and
+                  Ashish Sharma},
+  title        = {{MEDIator: A Data Sharing Synchronization Platform
+                   for Heterogeneous Medical Image Archives}},
+  month        = aug,
+  year         = 2017,
+  doi          = {10.5281/zenodo.844842},
+  url          = {https://doi.org/10.5281/zenodo.844842}
+}
+
 If you have used MEDIator in your research, please cite the below papers:
 
 [1] Kathiravelu, P. & Sharma, A. (2015). MEDIator: A Data Sharing Synchronization Platform for Heterogeneous Medical Image Archives.
